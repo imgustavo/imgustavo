@@ -11,7 +11,11 @@
 - okok
 - ok
 
+<hr />
 
+### 📕 Projects2
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imgustavo&theme=great-gatsby&show_icons=true&hide_border=true)
 <!--
 
 -->
