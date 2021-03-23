@@ -2,10 +2,19 @@
 
 ## I'm a Student and Web Developer!!
 
--   Im Gustavo
--   Student
--   Argentina
+-   🌱 I’m interested in Web technologies and Cloud
+-   🥅 2021 Goals: Survive
+-   ⚡ Fun fact: I love Embroidery, Music and Crime Shows.
 
+### 📕 Projects
+- okokok
+- okok
+- ok
+
+
+<!--
+
+-->
 
 <!--
 **imgustavo/imgustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
