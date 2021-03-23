@@ -6,6 +6,7 @@
 -   🥅 2021 Goals: Survive
 -   ⚡ Fun fact: I love Embroidery, Music and Crime Shows.
 
+<!--
 ### 📕 Projects
 - okokok
 - okok
@@ -13,11 +14,12 @@
 
 <hr />
 
-### 📕 Projects2
+### 📕 Latest Blog Posts
+-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imgustavo&theme=great-gatsby&show_icons=true&hide_border=true)<hr />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imgustavo&theme=great-gatsby&show_icons=true&hide_border=true)
+
 <!--
-
 -->
 
 <!--
