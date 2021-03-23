@@ -4,7 +4,7 @@
 
 -   🌱 I’m interested in Web technologies and Cloud
 -   🥅 2021 Goals: Survive
--   ⚡ Fun fact: I love Embroidery, Music and Crime Shows.
+-   ⚡ Fun fact: I love Hiking, Music and Horror Movies.
 
 <!--
 ### 📕 Projects
