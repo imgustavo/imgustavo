@@ -3,7 +3,7 @@
 ## I'm a Student and Web Developer!!
 
 -   🌱 I’m interested in Web technologies and Cloud
--   🚀 2021 Goals: Survive
+-   🚀 2024 Goals: Survive
 -   ⚡ Fun fact: I love Hiking, Music and Horror Movies.
 
 <!--
